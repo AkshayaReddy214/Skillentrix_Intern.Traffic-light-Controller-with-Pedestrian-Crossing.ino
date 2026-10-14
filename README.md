@@ -52,39 +52,24 @@ State| Description
 
 Shows the RTL design and internal logic connections generated using Xilinx Vivado.
 
-"RTL Schematic" (outputs/rtl-schematic.png)
 
 2. Simulation Waveform
 
 Displays the clock, reset, pedestrian request, highway signals, side-road signals, and pedestrian walk output over time.
 
-"Simulation Waveform" (outputs/simulation-waveform.png)
+
 
 3. Power Analysis
 
 Shows the power analysis results reported by Vivado for the implemented design.
 
-"Power Analysis" (outputs/power-analysis.png)
 
 4. Console Output
 
 Displays the simulation log and traffic signal values during execution.
 
-"Console Output" (outputs/simulation-console.png)
 
-📁 Project Structure
 
-Traffic-Light-Controller-with-Pedestrian-Crossing/
-│
-├── README.md
-├── traffic_light_controller.v
-├── tb_traffic_light_controller.v
-│
-└── outputs/
-    ├── rtl-schematic.png
-    ├── simulation-waveform.png
-    ├── power-analysis.png
-    └── simulation-console.png
 
 📚 Learning Outcomes
 
